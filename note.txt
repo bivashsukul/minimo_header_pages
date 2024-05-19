@@ -1,0 +1,60 @@
+
+
+
+pixel parfect design
+section -defined {koyta section EXample-header,banner --}
+layout defined
+reuseable block{html&css both}
+coade comment{html&css}
+
+seo
+speed optimiged
+cross browger support thakbe
+
+ui ux---
+typhography -2/3 {font}
+color -{2/3}
+spac{minimum space must}
+consistance{porar ablity}
+
+css heirarki
+{ width 
+  height
+
+}
+
+
+
+font-family----
+   font-family: "Playfair Display", serif;
+   font-family: "Ubuntu", sans-serif;
+
+simantic markup {means=namme sune bujte para}
+    header
+    meanu
+    logo
+    nav
+    asid
+    article
+    section
+    footer
+
+recurce{
+       most use font-family
+       }
+
+color{
+black:-  #000000
+gray:- #626262
+
+
+}
+
+image neyar janno{alt+(leyer+cok)}
+then{ image->tim, back->move, (save for web..alt+ctrl+shift+s)}
+menu{1.t click +menu click+ ok kore+menue coppy
+     2.leyer + menu duble click + coppy}
+
+
+
+
